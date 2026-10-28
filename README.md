@@ -267,7 +267,7 @@ FROM prevJobcount;
 ## 👤 Author
 
 **Pathan Afridh Khan**
-Data Analyst | SQL • Excel
+Aspiring Data Analyst | SQL • Excel
 
 📧 pathanafridhkhan@gmail.com
 
